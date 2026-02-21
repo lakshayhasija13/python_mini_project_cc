@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-This is a repository of all Python basic projects by me (lakshayhasija13).
+This is a repository of all Python basic projects by me (lakshayhasija13). Guided by CodeCademy.com
 
 ## Projects
 

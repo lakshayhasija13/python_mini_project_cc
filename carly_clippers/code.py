@@ -42,4 +42,5 @@ print(f'Average Daily revenue: {average_daily_revenue}')
 cuts_under_30 = [hair for hair in range(len(hairstyles)) if new_prices[hair] < 30]
 
 # TASK 12
+print("Cuts under 30:")
 print(cuts_under_30)
